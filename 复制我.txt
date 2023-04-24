@@ -1,6 +1,7 @@
 //1.0简单使用，2.0加上验证码校验，3.0配合自动支付api
 //民间脚本主要还是看网速
 //不要跟大魔法师比脚本的速度
+//如有需要可以联系我 qq：291179247
 var getBuyButton = function(){
 	var time = new Date();
 	console.log(time.toLocaleTimeString());
